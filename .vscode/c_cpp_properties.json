@@ -1,0 +1,48 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/bruce/Downloads/WBO2-master/include",
+                "c:/Users/bruce/Downloads/WBO2-master/src",
+                "c:/Users/bruce/Downloads/WBO2-master/lib/pid",
+                "c:/Users/bruce/Downloads/WBO2-master/lib/initilize_hardware",
+                "c:/Users/bruce/Downloads/WBO2-master/lib/dataout",
+                "C:/Users/bruce/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/bruce/Downloads/WBO2-master/include",
+                    "c:/Users/bruce/Downloads/WBO2-master/src",
+                    "c:/Users/bruce/Downloads/WBO2-master/lib/pid",
+                    "c:/Users/bruce/Downloads/WBO2-master/lib/initilize_hardware",
+                    "c:/Users/bruce/Downloads/WBO2-master/lib/dataout",
+                    "C:/Users/bruce/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=4000000L",
+                "PLATFORMIO=50004",
+                "ARDUINO_AVR_NG",
+                "__AVR_ATmega8__",
+                ""
+            ],
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/bruce/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega8",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

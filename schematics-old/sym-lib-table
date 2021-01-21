@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WBO2-02-1.1-rescue)(type Legacy)(uri ${KIPRJMOD}/WBO2-02-1.1-rescue.lib)(options "")(descr ""))
+)
