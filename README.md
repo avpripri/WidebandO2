@@ -1,5 +1,7 @@
 # WidebandO2
 
+![WBO2 board](fabrication-new/WB02 Board.png)
+
 An Arduino sketch for controlling a Bosch LSU 4.9 Wideband Lambda sensor with minimal parts
 
 The board is uses the ProMicro (ATMEGA32U)
