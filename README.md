@@ -1,15 +1,20 @@
-##WidebandO2
+# WidebandO2
+
+![WBO2 board](./fabrication-new/WB02%20Board.PNG)
 
 An Arduino sketch for controlling a Bosch LSU 4.9 Wideband Lambda sensor with minimal parts
 
 The board is uses the ProMicro (ATMEGA32U)
-The project uses Visual Studio Code + PlatformIO but can easily be built in Arduino IDE by loadin the .ino file there.
+The project uses Visual Studio Code + PlatformIO but can easily be built in Arduino IDE by renaming main.cpp to main.ino.
 
-##Update Jan-2021
+## Update Jan-2021
 
-I was unable to get this older eagle file to load, and it was pretty simple, so I rebuilt it in EasyEDA.  All files added to fabrication folder and include gerber, bom + pnp files.  Upload to JLPCB, as of htis writing, 5 boards cost $4, The  
+Changes:
+- PlatformIO
+- ProMicro from Teensy 2.0 (just what I have handy)
+- Redrafted the circuit for EasyEDA with gerbers, BOM & PnP for JLPCB orders 
 
-##Required Libraries
+## Required Libraries
 
 * RunningAverage - http://playground.arduino.cc/Main/RunningAverage
 * PIDLibrary - http://playground.arduino.cc/Code/PIDLibrary
