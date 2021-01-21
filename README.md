@@ -1,6 +1,6 @@
 # WidebandO2
 
-![WBO2 board](fabrication-new/WB02 Board.png)
+![WBO2 board](./fabrication-new/WB02%20Board.PNG)
 
 An Arduino sketch for controlling a Bosch LSU 4.9 Wideband Lambda sensor with minimal parts
 
