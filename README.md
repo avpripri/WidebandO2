@@ -4,7 +4,7 @@
 
 An Arduino sketch for controlling a Bosch LSU 4.9 Wideband Lambda sensor with minimal parts
 
-The board is uses the ProMicro (ATMEGA32U)
+The board used is the ProMicro (ATMEGA32U)
 The project uses Visual Studio Code + PlatformIO but can easily be built in Arduino IDE by renaming main.cpp to main.ino.
 
 ## Update Jan-2021
